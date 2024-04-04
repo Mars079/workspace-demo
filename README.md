@@ -1,0 +1,1 @@
+A basic example of how using Yarn workspaces makes sharing code easy!

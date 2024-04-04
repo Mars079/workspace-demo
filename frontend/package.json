@@ -1,0 +1,9 @@
+{
+    "name": "frontend",
+    "dependencies": {
+        "utils": "workspace:^"
+    },
+    "scripts": {
+        "start": "node ./index.js"
+    }
+}
